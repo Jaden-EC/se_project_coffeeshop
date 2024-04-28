@@ -34,6 +34,7 @@
   font-size: 16px;
   line-height: 20px;
   color: #fff;
+  transition: color 0.2s ease-in-out;
   text-decoration: none;
   align-items: center;
 }
@@ -65,4 +66,5 @@
 
 .footer__copyright {
   color: #fff;
+  margin: 108px 0 60px;
 }

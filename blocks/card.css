@@ -20,7 +20,7 @@
 
 .card__list-item {
   display: flex;
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-family: "Noto Serif", "Times New Roman";
   font-size: 16px;
   line-height: 20px;
 }

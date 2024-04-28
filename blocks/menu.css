@@ -17,7 +17,7 @@
 }
 
 .menu__subtitle {
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-family: "Noto Serif", "Times New Roman";
   font-size: 20px;
   line-height: 30px;
   max-width: 780px;
