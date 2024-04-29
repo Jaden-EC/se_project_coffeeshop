@@ -27,6 +27,6 @@
   transition: color 0.2s ease-in-out;
 }
 
-.nav__links a:hover {
+.nav__link:hover {
   color: #2f80ed;
 }

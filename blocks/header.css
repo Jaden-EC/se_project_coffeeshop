@@ -22,11 +22,12 @@
   letter-spacing: -0.6px;
   margin-top: 183px;
   margin-bottom: 0;
+  z-index: 1;
 }
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", "Times New Roman";
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: italic;
   color: #2f80ed;
 }
@@ -37,7 +38,8 @@
   max-width: 683px;
   font-size: 20px;
   line-height: 30px;
-  font-family: "Noto Serif", "Times New Roman";
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  z-index: 1;
 }
 
 .header__image {
@@ -53,6 +55,7 @@
   align-items: center;
   justify-content: space-between;
   margin-top: auto;
+  z-index: 1;
 }
 
 .header__paragraph {
