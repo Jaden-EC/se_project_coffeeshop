@@ -26,7 +26,7 @@
   line-height: 30px;
 }
 
-.form__label::placeholder {
+.form__input::placeholder {
   color: #838383;
 }
 
